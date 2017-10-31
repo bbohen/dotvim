@@ -1,3 +1,5 @@
+Basic vim configuration that can be easily set up on a new machine
+
 Installation:
 
 ```
