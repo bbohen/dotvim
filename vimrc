@@ -1,8 +1,9 @@
+execute pathogen#infect()
+
 syntax on
 color dracula
 
 " Pathogen "
-execute pathogen#infect()
 call pathogen#helptags()
 
 
