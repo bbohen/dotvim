@@ -21,6 +21,12 @@ Switch to the `~/.vim` directory, and fetch submodules:
  git submodule update
 ```
 
+To add a new plugin:
+
+```
+git submodule add https://github.com/author/vim-plugin ~/.vim/bundle/vim-plugin
+``
+
 Further reading:
  
 - http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
