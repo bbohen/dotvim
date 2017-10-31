@@ -25,7 +25,7 @@ To add a new plugin:
 
 ```
 git submodule add https://github.com/author/vim-plugin ~/.vim/bundle/vim-plugin
-``
+```
 
 Further reading:
  
