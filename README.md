@@ -24,7 +24,7 @@ Switch to the `~/.vim` directory, and fetch submodules:
 To add a new plugin:
 
 ```
-git submodule add https://github.com/author/vim-plugin ~/.vim/bundle/vim-plugin
+git submodule add git@github.com:author/vim-plugin.git ~/.vim/bundle/vim-plugin
 ```
 
 Further reading:

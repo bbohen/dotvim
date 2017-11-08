@@ -4,3 +4,6 @@
 [submodule "/Users/brad/.vim/bundle/vim-airline"]
 	path = /Users/brad/.vim/bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "/Users/brad/.vim/bundle/nerdtree"]
+	path = /Users/brad/.vim/bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git

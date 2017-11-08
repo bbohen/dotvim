@@ -17,6 +17,9 @@ set showmatch " highlight matching [{()}]
 set incsearch " search as characters are entered
 set hlsearch " highlight matches
 
+"=== Mappings ==="
+map <C-n> :NERDTreeToggle<CR>
+
 "=== Pathogen ==="
 call pathogen#helptags()
 
